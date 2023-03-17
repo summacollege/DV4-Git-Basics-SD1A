@@ -1,5 +1,3 @@
-# Workshop1-Git-Basics
+# DV-Git-Basics
 
-Deze repository is gemaakt ter demonstratie bij de 1e workshop Git-Basics.
-
-hallo
+Deze repository is gemaakt ter demonstratie bij de 1e les Git van Digitale vaardigheden 4.
